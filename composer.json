@@ -1,0 +1,22 @@
+{
+    "name": "pleisterman/wp-enhanced-jwt-rest-api",
+    "description": "Pleisterman enhanced JWT for wordpress rest-api",
+    "type": "project",
+    "license": "gpl",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Rob Wolters",
+            "email": "info@pleisterman.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "optimize-autoloader": true,
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Common\\": "./common/inc",   
+            "Admin\\": "./admin/inc"   
+        }    
+    }
+}

@@ -1,0 +1,1338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-enhanced-jwt-rest-api\n"
+"POT-Creation-Date: 2017-12-25 11:28+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/inc/SettingsHelpTab.php:59
+msgid "How to configure the plugin:"
+msgstr "Hoe je de  Plugin kunt configureren."
+
+#: admin/inc/SettingsHelpTab.php:61
+msgid ""
+"When activated the plugin will add a JWT authorisation check to the wp-api"
+msgstr ""
+"Als de Plugin geactiveerd is dan wordt er een authorisatie JWT controle "
+"toegevoegd aan de wp-api."
+
+#: admin/inc/SettingsHelpTab.php:67
+msgid ""
+"If you check the option `Autosave JWT` the JWT will be saved in a protected "
+"cookie."
+msgstr ""
+"Als de `Autosave` optie wordt aangezet dan wordt het JWT gesaved in een "
+"beveiligd cookie."
+
+#: admin/inc/Validator.php:66
+msgid "Enter a valid email adress."
+msgstr "Vul een geldig e-mailadres in"
+
+#: admin/inc/Validator.php:70
+msgid "At:"
+msgstr "Bij:"
+
+#: translations.php:8
+msgid "Enhanced JWT Settings"
+msgstr "Enhanced JWT Instellingen"
+
+#: translations.php:9
+msgid "Enhanced JWT"
+msgstr ""
+
+#: translations.php:10 translations.php:13
+msgid "Settings"
+msgstr "Instellingen"
+
+#: translations.php:11 translations.php:14
+msgid "Roles"
+msgstr "<nobr>Gebruikers Rollen</nobr>"
+
+#: translations.php:12
+msgid "Help"
+msgstr "Hulp"
+
+#: translations.php:15
+msgid "Do you want to have fun?"
+msgstr "Wil je plezier hebben?"
+
+#: translations.php:16
+msgid "Leave your work email:"
+msgstr "Laat je werk email achter:"
+
+#: translations.php:17
+msgid "Or your personal email:"
+msgstr "Of je prive email:"
+
+#: translations.php:18
+msgid "Autosave JWT in secured cookie."
+msgstr "Autosave in beveiligde cookies"
+
+#: translations.php:19
+msgid "Have some fun type something random."
+msgstr "Heb wat plezier en typ zomaar wat."
+
+#: translations.php:20
+msgid "Tell me:"
+msgstr "Vertel het me:"
+
+#: translations.php:21
+msgid "Life can be fun."
+msgstr "Het leven kan leuk zijn."
+
+#: translations.php:22
+msgid "What do you like? Tell me in one sentence:"
+msgstr "Wat vind jij leuk? Vertel het me in een zin:"
+
+#: translations.php:23
+msgid "Autosave"
+msgstr "Autosave"
+
+#: translations.php:24
+msgid "Algorithm."
+msgstr "Algoritme"
+
+#~ msgid "Limit login attempts"
+#~ msgstr "Inlogpogingen beperken"
+
+#~ msgid "Attempts"
+#~ msgstr "Pogingen"
+
+#~ msgid "Lockout duration"
+#~ msgstr "Lockout duur"
+
+#~ msgid "minutes"
+#~ msgstr "minuten"
+
+#, fuzzy
+#~| msgid "Settings saved"
+#~ msgid "testink autosave"
+#~ msgstr "Instellingen opgeslagen"
+
+#~ msgid "testink roles"
+#~ msgstr "Rollen testn"
+
+#~ msgid "Aggressive lockout"
+#~ msgstr "Agressieve uitsluiting"
+
+#~ msgid "Site connection"
+#~ msgstr "Websiteverbinding"
+
+#~ msgid "Proactive security rules"
+#~ msgstr "Proactieve beveiligingsregels"
+
+#~ msgid "Block subnet"
+#~ msgstr "Subnet blokkeren"
+
+#~ msgid "Request wp-login.php"
+#~ msgstr "Verzoek wp-login.php"
+
+#~ msgid "Immediately block IP after any request to wp-login.php"
+#~ msgstr "IP meteen blokkeren bij verzoeken aan wp-login.php"
+
+#~ msgid "Redirect dashboard requests"
+#~ msgstr "Dashboardverzoeken omleiden"
+
+#~ msgid "Custom login page"
+#~ msgstr "Aangepaste inlogpagina"
+
+#~ msgid "Custom login URL"
+#~ msgstr "Aangepaste inlog-URL"
+
+#~ msgid "must not overlap with the existing pages or posts slug"
+#~ msgstr "mag niet overlappen met bestaande pagina's of post slugs"
+
+#~ msgid "Disable wp-login.php"
+#~ msgstr "Wp-login.php uitschakelen"
+
+#~ msgid ""
+#~ "Block direct access to wp-login.php and return HTTP 404 Not Found Error"
+#~ msgstr ""
+#~ "Directe toegang tot wp-login.php blokkeren en HTTP 404 Not Found Error "
+#~ "teruggeven"
+
+#~ msgid "Citadel mode"
+#~ msgstr "Citadelmodus"
+
+#~ msgid "Threshold"
+#~ msgstr "Drempelwaarde"
+
+#~ msgid "Duration"
+#~ msgstr "Duur"
+
+#~ msgid "Notifications"
+#~ msgstr "Meldingen"
+
+#~ msgid "Send notification to admin email"
+#~ msgstr "Melding versturen naar admin e-mailadres"
+
+#~ msgid "Access Lists"
+#~ msgstr "Toegangslijsten"
+
+#~ msgid "Activity"
+#~ msgstr "Activiteit"
+
+#~ msgid "Lockouts"
+#~ msgstr "Uitsluitingen"
+
+#~ msgid "%s allowed retries in %s minutes"
+#~ msgstr "%s toegestane pogingen in %s minuten"
+
+#~ msgid "Enable after %s failed login attempts in last %s minutes"
+#~ msgstr "Aanzetten na %s mislukte inlogpogingen binnen %s minuten"
+
+#~ msgid "IP"
+#~ msgstr "IP"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Local User"
+#~ msgstr "Lokale gebruiker"
+
+#~ msgid "Username used"
+#~ msgstr "Toegepaste gebruikersnaam"
+
+#~ msgid "Showing last %d records from %d"
+#~ msgstr "Laatste %d records van %d"
+
+#~ msgid "Logged in"
+#~ msgstr "Ingelogd"
+
+#~ msgid "Logged out"
+#~ msgstr "Uitgelogd"
+
+#~ msgid "Login failed"
+#~ msgstr "Inloggen mislukt"
+
+#~ msgid "IP blocked"
+#~ msgstr "IP geblokkeerd"
+
+#~ msgid "Subnet blocked"
+#~ msgstr "Subnet geblokkeerd"
+
+#~ msgid "Citadel activated!"
+#~ msgstr "Citadelmodus geactiveerd!"
+
+#, fuzzy
+#~ msgid "Locked out"
+#~ msgstr "Buitengesloten"
+
+#~ msgid "IP blacklisted"
+#~ msgstr "IP uitgesloten"
+
+#~ msgid "Password changed"
+#~ msgstr "Wachtwoord veranderd"
+
+#~ msgid "Remove"
+#~ msgstr "Verwijderen"
+
+#~ msgid "Lockout for %s was removed"
+#~ msgstr "Uitsluiting voor %s is verwijderd"
+
+#, fuzzy
+#~ msgid "White IP Access List"
+#~ msgstr "Toegelaten IP-adressen"
+
+#, fuzzy
+#~ msgid "Black IP Access List"
+#~ msgstr "Uitgesloten IP-adressen"
+
+#~ msgid "List is empty"
+#~ msgstr "Lijst is leeg"
+
+#, fuzzy
+#~ msgid "Address %s was added to White IP Access List"
+#~ msgstr "Adres %s toegevoegd aan de Lijst Toegelaten IP-adressen"
+
+#, fuzzy
+#~ msgid "Address %s was added to Black IP Access List"
+#~ msgstr "Adres %s toegevoegd aan de Lijst Uitgesloten IP-adressen "
+
+#~ msgid ""
+#~ "Citadel mode is activated after %d failed login attempts in %d minutes."
+#~ msgstr ""
+#~ "Citadelmodus geactiveerd na %d mislukte inlogpogingen binnen %d minuten"
+
+#, fuzzy
+#~ msgid "View Activity"
+#~ msgstr "Activiteit bekijken"
+
+#, fuzzy
+#~ msgid "Last login"
+#~ msgstr "Laatst ingelogd"
+
+#~ msgid "Never"
+#~ msgstr "Nooit"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Weet je het zeker?"
+
+#~ msgid "My site is behind a reverse proxy"
+#~ msgstr "Mijn website draait achter een reverse proxy"
+
+#~ msgid "Non-existent users"
+#~ msgstr "Niet-bestaande gebruikers"
+
+#~ msgid ""
+#~ "Immediately block IP when attempting to login with a non-existent username"
+#~ msgstr "IP meteen blokkeren bij inlogpoging op niet-bestaande gebruiker"
+
+#~ msgid ""
+#~ "Disable automatic redirecting to the login page when /wp-admin/ is "
+#~ "requested by an unauthorized request"
+#~ msgstr ""
+#~ "Uitschakelen omleiding naar de inlogpagina bij ongeautoriseerde verzoeken "
+#~ "aan /wp-admin/"
+
+#~ msgid "Make your protection smarter!"
+#~ msgstr "Maak je bescherming slimmer!"
+
+#~ msgid ""
+#~ "Please enable Permalinks to use this feature. Set Permalink Settings to "
+#~ "something other than Default."
+#~ msgstr ""
+#~ "Schakel Permalinks in om deze functionaliteit te gebruiken. Stel de "
+#~ "Permalinks instelling in op iets anders dan Standaard."
+
+#~ msgid ""
+#~ "Be careful when enabling this options. If you forget the custom login URL "
+#~ "you will not be able to login."
+#~ msgstr ""
+#~ "Pas op als je deze opties inschakelt! Vergeet je de aangepaste inlog-URL, "
+#~ "dan kun je niet meer inloggen."
+
+#~ msgid ""
+#~ "Increase lockout duration to %s hours after %s lockouts in the last %s "
+#~ "hours"
+#~ msgstr ""
+#~ "Uitsluitingsduur ophogen naar %s uren na %s uitsluitingen in de laatste "
+#~ "%s uren"
+
+#~ msgid ""
+#~ "You are not allowed to log in. Ask your administrator for assistance."
+#~ msgstr ""
+#~ "Je hebt geen toestemming om in te loggen. Vraag je beheerder om "
+#~ "informatie."
+
+#~ msgid ""
+#~ "You have reached the login attempts limit. Please try again in %d minutes."
+#~ msgstr ""
+#~ "Je hebt de limiet voor inlogpogingen bereikt. Probeer het opnieuw na %d "
+#~ "minuten."
+
+#~ msgid "You have only one attempt remaining."
+#~ msgid_plural "You have %d attempts remaining."
+#~ msgstr[0] "Slechts één inlogpoging resterend!"
+#~ msgstr[1] "%s inlogpogingen resterend."
+
+#~ msgid "No activity has been logged."
+#~ msgstr "Geen activiteit waargenomen."
+
+#~ msgid "Expires"
+#~ msgstr "Verloopt"
+
+#, fuzzy
+#~ msgid "No lockouts at the moment. The sky is clear."
+#~ msgstr "Momenteel geen uitsluitingen."
+
+#~ msgid "These IPs will never be locked out"
+#~ msgstr "Deze IP's worden nooit geblokkeerd."
+
+#~ msgid "Your IP"
+#~ msgstr "Jouw IP"
+
+#~ msgid "You can't add your IP address"
+#~ msgstr "Je kunt je eigen IP niet toevoegen"
+
+#~ msgid "Last failed attempt was at %s from IP %s with user login: %s."
+#~ msgstr "Laatste mislukte inlogpoging was op %s vanaf IP %s op gebruiker %s."
+
+#~ msgid "Can't activate WP Cerber due to a database error."
+#~ msgstr "Kan WP Cerber niet activeren door een fout in de database"
+
+#~ msgid "Notify admin if the number of active lockouts above"
+#~ msgstr ""
+#~ "Waarschuw de beheerder als het aantal actieve uitsluitingen stijgt tot "
+#~ "boven"
+
+#~ msgid "days"
+#~ msgstr "dagen"
+
+#~ msgid "Cerber Quick View"
+#~ msgstr "Cerber Quick View"
+
+#~ msgid "Hint"
+#~ msgstr "Tip"
+
+#~ msgid "To view activity, click on the IP"
+#~ msgstr "Klik op het IP om activiteiten te bekijken"
+
+#~ msgid "Check for activity"
+#~ msgstr "Check voor activiteit"
+
+#~ msgid "Always block entire subnet Class C of intruders IP"
+#~ msgstr "Altijd gehele IP Class C subnet blokkeren van aanvaller"
+
+#~ msgid "Click to send test"
+#~ msgstr "Klik om test te verzenden"
+
+#~ msgid "Attention! You have changed the login URL! The new login URL is"
+#~ msgstr "Let op! Je hebt de inlog-URL veranderd. De nieuwe inlog-URL is"
+
+#~ msgid "Comments"
+#~ msgstr "Reacties"
+
+#~ msgid "Update to version %s of WP Cerber"
+#~ msgstr "WP Cerber updaten naar versie %s"
+
+#~ msgid "View activity in dashboard"
+#~ msgstr "Activiteiten bekijken in dashboard"
+
+#~ msgid "Number of active lockouts"
+#~ msgstr "Aantal actieve uitsluitingen"
+
+#~ msgid "View lockouts in dashboard"
+#~ msgstr "Uitsluitingen bekijken in dashboard"
+
+#~ msgid "This message was sent by"
+#~ msgstr "Dit bericht is verzonden door"
+
+#~ msgid "Tools"
+#~ msgstr "Gereedschap"
+
+#~ msgid "Export settings to the file"
+#~ msgstr "Instellingen exporteren naar bestand"
+
+#~ msgid ""
+#~ "When you click the button below you will get a configuration file, which "
+#~ "you can upload on another site."
+#~ msgstr ""
+#~ "Met onderstaande knop genereer je een configuratiebestand dat je bij een "
+#~ "andere site kunt uploaden."
+
+#~ msgid "Download file"
+#~ msgstr "Bestand downloaden"
+
+#~ msgid "Import settings from the file"
+#~ msgstr "Instellingen importeren van bestand"
+
+#~ msgid ""
+#~ "When you click the button below, file will be uploaded and all existing "
+#~ "settings will be overridden."
+#~ msgstr ""
+#~ "Via onderstaande knop laad je het bestand en overschrijf je alle "
+#~ "bestaande instellingen."
+
+#~ msgid "Select file to import."
+#~ msgstr "Kies bestand om te importeren"
+
+#~ msgid "Maximum upload file size: %s."
+#~ msgstr "Maximum bestandsgrootte: %s"
+
+#~ msgid "What do you want to import?"
+#~ msgstr "Wat wil je importeren?"
+
+#~ msgid "Upload file"
+#~ msgstr "Bestand uploaden"
+
+#~ msgid "No file was uploaded or file is corrupted"
+#~ msgstr "Geen bestand geüpload of bestand is beschadigd."
+
+#~ msgid "Error while updating"
+#~ msgstr "Foutmelding tijdens updaten"
+
+#~ msgid "Settings has imported successfully from"
+#~ msgstr "Instellingen geïmporteerd van"
+
+#~ msgid "Error while parsing file"
+#~ msgstr "Fout bij verwerken bestand"
+
+#~ msgid "Hostname"
+#~ msgstr "Hostnaam"
+
+#~ msgid "unknown"
+#~ msgstr "onbekend"
+
+#, fuzzy
+#~ msgid "Keep records for"
+#~ msgstr "Gegevens behouden tot"
+
+#~ msgid "active"
+#~ msgstr "actief"
+
+#~ msgid "deactivate"
+#~ msgstr "deactiveren"
+
+#~ msgid "not active"
+#~ msgstr "niet actief"
+
+#~ msgid "disabled"
+#~ msgstr "gedeactiveerd"
+
+#~ msgid "failed attempts"
+#~ msgstr "mislukte pogingen"
+
+#~ msgid "in 24 hours"
+#~ msgstr "in 24 uur"
+
+#~ msgid "view all"
+#~ msgstr "bekijk alles"
+
+#~ msgid "lockouts"
+#~ msgstr "uitsluitingen"
+
+#~ msgid "Lockouts at the moment"
+#~ msgstr "Uitsluitingen op dit moment"
+
+#, fuzzy
+#~ msgid "Last lockout"
+#~ msgstr "Recente uitsluiting"
+
+#~ msgid "entry"
+#~ msgid_plural "entries"
+#~ msgstr[0] "item"
+#~ msgstr[1] "items"
+
+#, fuzzy
+#~ msgid "Confused about some settings?"
+#~ msgstr "Verward over sommige instellingen?"
+
+#, fuzzy
+#~ msgid "You can easily load default recommended settings using button below"
+#~ msgstr "Met onderstaande knop laad je de aanbevolen instellingen"
+
+#, fuzzy
+#~ msgid "Load default settings"
+#~ msgstr "Aanbevolen instellingen laden"
+
+#~ msgid "doesn't affect Custom login URL and Access Lists"
+#~ msgstr "heeft geen invloed op Aangepaste inlog-URL en Toegangslijsten"
+
+#~ msgid "New version is available"
+#~ msgstr "Nieuwe versie beschikbaar"
+
+#~ msgid "WP Cerber"
+#~ msgstr "WP Cerber"
+
+#~ msgid "WP Cerber notify"
+#~ msgstr "WP Cerber melding"
+
+#~ msgid "Citadel mode is activated"
+#~ msgstr "Citadel modus is actief"
+
+#~ msgid "New Custom login URL"
+#~ msgstr "Nieuwe Aangepaste inlog-URL"
+
+#~ msgid "The WP Cerber requires PHP %s or higher. You are running"
+#~ msgstr "WP Cerber vereist PHP %s of hoger. Je gebruikt nu"
+
+#~ msgid "The WP Cerber requires WordPress %s or higher. You are running"
+#~ msgstr "WP Cerber vereist WordPress %s of hoger. Je gebruikt nu"
+
+#~ msgid "Use file"
+#~ msgstr "Bestand gebruiken"
+
+#~ msgid "Write failed login attempts to the file"
+#~ msgstr "Mislukte pogingen opslaan in bestand"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deactiveren"
+
+#~ msgid "Reason"
+#~ msgstr "Reden"
+
+#~ msgid "Add IP to the list"
+#~ msgstr "IP-adres toevoegen aan lijst"
+
+#~ msgid "Add IP to the Black List"
+#~ msgstr "IP-adres toevoegen aan Uitsluitingslijst"
+
+#~ msgid "Attempt to access"
+#~ msgstr "Poging tot toegang"
+
+#~ msgid "Limit on login attempts is reached"
+#~ msgstr "Limiet voor aantal inlogpogingen is bereikt"
+
+#~ msgid "Attempt to log in with non-existent username"
+#~ msgstr "Inlogpoging met onbekende gebruikersnaam"
+
+#~ msgid "Last lockout was added: %s for IP %s"
+#~ msgstr "Laatste uitsluiting was toegevoegd: %s voor IP-adres %s"
+
+#~ msgid "Hardening"
+#~ msgstr "Versterking"
+
+#~ msgid "Abuse email:"
+#~ msgstr "E-mail voor misbruik:"
+
+#~ msgid "Email Address"
+#~ msgstr "E-mailadres"
+
+#~ msgid "if empty, the admin email %s will be used"
+#~ msgstr "admin e-mail %s wordt gebruikt indien leeg"
+
+#~ msgid "Drill down IP"
+#~ msgstr "IP-adres onderzoeken"
+
+#~ msgid "Retrieve extra WHOIS information for IP"
+#~ msgstr "Haal extra WHOIS-informatie op voor IP-adres"
+
+#~ msgid "Hardening WordPress"
+#~ msgstr "Wordpress versterken"
+
+#~ msgid "Stop user enumeration"
+#~ msgstr "Stop nummering gebruikers"
+
+#~ msgid "Disable XML-RPC"
+#~ msgstr "XML-RPC uitschakelen"
+
+#~ msgid ""
+#~ "Block access to the XML-RPC server (including Pingbacks and Trackbacks)"
+#~ msgstr ""
+#~ "Toegang tot XML-RPC server uitschakelen (inclusief Pingbacks en "
+#~ "Trackbacks)"
+
+#~ msgid "Disable feeds"
+#~ msgstr "Feeds uitschakelen"
+
+#~ msgid "Block access to the RSS, Atom and RDF feeds"
+#~ msgstr "Blokkeer toegang tot de RSS-, Atom- en RDF-feeds"
+
+#~ msgid "Disable REST API"
+#~ msgstr "REST API uitschakelen"
+
+#~ msgid "These settings do not affect hosts from the "
+#~ msgstr "Deze instellingen gelden niet voor hosts van de␣"
+
+#~ msgid "WP Cerber is now active and has started protecting your site"
+#~ msgstr "WP Cerber is actief en beschermt nu je website"
+
+#~ msgid "Action"
+#~ msgstr "Actie"
+
+#~ msgid "Nobody can log in or register from these IPs"
+#~ msgstr "Niemand kan aanmelden of inloggen vanaf deze IP's"
+
+#~ msgid "Incorrect IP address or IP range"
+#~ msgstr "IP-adres of -reeks is incorrect"
+
+#~ msgid "Network:"
+#~ msgstr "Netwerk:"
+
+#~ msgid "Add network to the Black List"
+#~ msgstr "Netwerk toevoegen aan Uitsluitingslijst"
+
+#~ msgid "Attention! Citadel mode is now active. Nobody is able to log in."
+#~ msgstr "Let op! Citadelmodus is actief; niemand kan inloggen."
+
+#~ msgid "Unknown"
+#~ msgstr "Onbekend"
+
+#~ msgid "Gregory"
+#~ msgstr "Gregory"
+
+#~ msgid "ERROR:"
+#~ msgstr "FOUT:"
+
+#~ msgid ""
+#~ "Human verification failed. Please click the square box in the reCAPTCHA "
+#~ "block below."
+#~ msgstr ""
+#~ "Menselijke verificatie mislukt. Klik het vierkant in onderstaand "
+#~ "reCAPTCHA-blok."
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The password you entered for the username %s is "
+#~ "incorrect."
+#~ msgstr ""
+#~ "<strong>LET OP</strong>: je geeft een foutief wachtwoord op voor "
+#~ "gebruiker %s."
+
+#~ msgid "Username is not allowed. Please choose another one."
+#~ msgstr "Gebruikersnaam is niet toegestaan, kies een andere."
+
+#~ msgid "unspecified"
+#~ msgstr "niet gespecificeerd"
+
+#~ msgid "Number of lockouts is increasing"
+#~ msgstr "Aantal uitsluitingen loopt op"
+
+#~ msgid "View activity for this IP"
+#~ msgstr "Bekijk activiteit voor dit adres"
+
+#~ msgid "A new version of WP Cerber is available to install"
+#~ msgstr "Nieuwe versie WP Cerber is klaar voor installatie"
+
+#~ msgid "Hi!"
+#~ msgstr "Hallo!"
+
+#~ msgid "Website"
+#~ msgstr "Website"
+
+#~ msgid "The WP Cerber security plugin has been deactivated"
+#~ msgstr "WP Cerber is gedeactiveerd"
+
+#~ msgid "Not logged in"
+#~ msgstr "Niet ingelogd"
+
+#~ msgid "By user"
+#~ msgstr "Door gebruiker"
+
+#~ msgid "From IP address"
+#~ msgstr "Van IP-adres"
+
+#~ msgid "From country"
+#~ msgstr "Uit land"
+
+#~ msgid "The WP Cerber security plugin is now active"
+#~ msgstr "WP Cerber is actief"
+
+#~ msgid "Your IP address is added to the"
+#~ msgstr "Je IP-adres is toegevoegd aan de "
+
+#~ msgid "Import settings"
+#~ msgstr "Instellingen importeren"
+
+#~ msgid "Notification limit"
+#~ msgstr "Limiet aan meldingen"
+
+#~ msgid "notification letters allowed per hour (0 means unlimited)"
+#~ msgstr "toegestaan aantal meldingen per uur (0=geen limiet)"
+
+#~ msgid "User related settings"
+#~ msgstr "Gebruikersinstellingen"
+
+#~ msgid "Prohibited usernames"
+#~ msgstr "Verboden gebruikersnamen"
+
+#~ msgid ""
+#~ "Usernames from this list are not allowed to log in or register. Any IP "
+#~ "address, have tried to use any of these usernames, will be immediately "
+#~ "blocked. Use comma to separate logins."
+#~ msgstr ""
+#~ "Gebruikersnamen op deze lijst kunnen niet registreren of inloggen. IP-"
+#~ "adressen die deze namen gebruiken, worden direct uitgesloten. Scheid "
+#~ "namen met een komma."
+
+#~ msgid "User session expire"
+#~ msgstr "Gebruikerssessie eindigt"
+
+#~ msgid "in minutes (leave empty to use default WP value)"
+#~ msgstr "in minuten (leeg laten voor standaard WP-waarde)"
+
+#~ msgid "reCAPTCHA settings"
+#~ msgstr "reCAPTCHA-instellingen"
+
+#~ msgid "Site key"
+#~ msgstr "Site-sleutel"
+
+#~ msgid "Secret key"
+#~ msgstr "Geheime sleutel"
+
+#~ msgid "Enable reCAPTCHA for WordPress registration form"
+#~ msgstr "ReCAPTCHA instellen voor WordPress regstratieformulier"
+
+#~ msgid "Lost password form"
+#~ msgstr "Formulier voor zoekgeraakt wachtwoord"
+
+#~ msgid "Login form"
+#~ msgstr "Login-formulier"
+
+#~ msgid "Enable reCAPTCHA for WordPress login form"
+#~ msgstr "ReCAPTCHA inschakelen voor WordPress inlogpagina"
+
+#~ msgid ""
+#~ "Before you can start using reCAPTCHA, you have to obtain Site key and "
+#~ "Secret key on the Google website"
+#~ msgstr ""
+#~ "Haal eerst een Site-sleutel en Geheime Sleutel op van Google om reCAPTCHA "
+#~ "te kunnen gebruiken"
+
+#~ msgid "Know more"
+#~ msgstr "Meer weten"
+
+#~ msgid "WP Cerber Security"
+#~ msgstr "WP Cerber Security"
+
+#~ msgid "Users"
+#~ msgstr "Gebruikers"
+
+#~ msgid "User created"
+#~ msgstr "Gebruiker toegevoegd"
+
+#~ msgid "User registered"
+#~ msgstr "Gebruiker geregistreerd"
+
+#~ msgid "reCAPTCHA verification failed"
+#~ msgstr "reCAPTCHA verificatie mislukt"
+
+#~ msgid "reCAPTCHA settings are incorrect"
+#~ msgstr "foutieve reCAPTCHA-instellingen"
+
+#~ msgid "Attempt to access prohibited URL"
+#~ msgstr "Poging verboden URL te benaderen"
+
+#~ msgid "Attempt to log in with prohibited username"
+#~ msgstr "Inlogpoging met verboden gebruikersnaam"
+
+#~ msgid "Cerber Lab connection"
+#~ msgstr "Cerber Lab verbinding"
+
+#~ msgid "Send malicious IP addresses to the Cerber Lab"
+#~ msgstr "Stuur kwaadaardige IP-adressen naar Cerber Lab"
+
+#~ msgid "Cerber Lab protocol"
+#~ msgstr "Cerber Lab protocol"
+
+#~ msgid "Registration form"
+#~ msgstr "Registratieformulier"
+
+#~ msgid "Enable reCAPTCHA for WooCommerce registration form"
+#~ msgstr "ReCAPTCHA inschakelen voor WooCommerce registratie"
+
+#~ msgid "Enable reCAPTCHA for WordPress lost password form"
+#~ msgstr "ReCAPTCHA inschakelen om nieuw WordPress wachtwoord op te vragen"
+
+#~ msgid "Enable reCAPTCHA for WooCommerce lost password form"
+#~ msgstr "ReCAPTCHA inschakelen om nieuw WooCommerce wachtwoord op te vragen"
+
+#~ msgid "Enable reCAPTCHA for WooCommerce login form"
+#~ msgstr "ReCAPTCHA inschakelen voor WooCommerce inlogpagina"
+
+#~ msgid "Request to the Google reCAPTCHA service failed"
+#~ msgstr "Verzoek aan Google ReCAPTCHA-service"
+
+#~ msgid "View all"
+#~ msgstr "Zie alle"
+
+#~ msgid "Recently locked out IP addresses"
+#~ msgstr "Recent buitengesloten IP-adressen"
+
+#~ msgid "OK, nail them all"
+#~ msgstr "OK, zet ze allemaal vast"
+
+#~ msgid "NO, maybe later"
+#~ msgstr "Nee, misschien later"
+
+#~ msgid "Dashboard"
+#~ msgstr "Dashboard"
+
+#~ msgid "Want to make WP Cerber even more powerful?"
+#~ msgstr "Wil je WP Cerber nog beter maken?"
+
+#~ msgid ""
+#~ "Allow WP Cerber to send locked out malicious IP addresses to Cerber Lab. "
+#~ "This helps the plugin team to develop new algorithms for WP Cerber that "
+#~ "will defend WordPress against new threats and botnets that are appearing  "
+#~ "everyday. You can disable the sending in the plugin settings at any time."
+#~ msgstr ""
+#~ "Sta WP Cerber toe om kwaadaardige IP-adressen te delen met Cerber Lab. Zo "
+#~ "kunnen we algoritmes ontwikkelen om WordPress steeds te beschermen tegen "
+#~ "nieuwe bedreigingen en botnets. Je kunt je toestemming elk moment "
+#~ "intrekken."
+
+#~ msgid "IP address"
+#~ msgstr "IP-adres"
+
+#~ msgid "User login"
+#~ msgstr "Gebruikers-login"
+
+#~ msgid "User ID"
+#~ msgstr "Gebruikers-ID"
+
+#~ msgid "Export"
+#~ msgstr "Export"
+
+#~ msgid "Search for IP or username"
+#~ msgstr "Zoek IP of gebruikersnaam"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Cerber Dashboard"
+#~ msgstr "Cerber Dashboard"
+
+#~ msgid "Cerber tools"
+#~ msgstr "Cerber tools"
+
+#~ msgid "Subscribe"
+#~ msgstr "Inschrijven"
+
+#~ msgid "Unsubscribe"
+#~ msgstr "Uitschrijven"
+
+#~ msgid "You've subscribed"
+#~ msgstr "Je bent ingeschreven"
+
+#~ msgid "You've unsubscribed"
+#~ msgstr "Je bent uitgeschreven"
+
+#~ msgid "A new activity has been recorded"
+#~ msgstr "Er is nieuwe activiteit waargenomen"
+
+#~ msgid "User"
+#~ msgstr "Gebruiker"
+
+#~ msgid "Search string"
+#~ msgstr "Zoekfrase"
+
+#~ msgid "To unsubscribe click here"
+#~ msgstr "Klik om uit te schrijven"
+
+#~ msgid "Preferences"
+#~ msgstr "Voorkeuren"
+
+#~ msgid "Date format"
+#~ msgstr "Datumformaat"
+
+#~ msgid "if empty, the default format %s will be used"
+#~ msgstr "indien leeg, gebruiken we standaardinstelling %s"
+
+#~ msgid "Push notifications"
+#~ msgstr "Push meldingen"
+
+#~ msgid "Email notifications"
+#~ msgstr "E-mail meldingen"
+
+#~ msgid "Use comma to specify multiple values"
+#~ msgstr "Scheid meer waarden met komma's"
+
+#~ msgid "All connected devices"
+#~ msgstr "Alle verbonden apparaten"
+
+#~ msgid "No devices found"
+#~ msgstr "Geen apparaten gevonden"
+
+#~ msgid "Not available"
+#~ msgstr "Niet beschikbaar"
+
+#~ msgid "Password reset requested"
+#~ msgstr "Wachtwoordvernieuwing aangevraagd"
+
+#~ msgid "Limit on failed reCAPTCHA verifications is reached"
+#~ msgstr "Grens bereikt van foutieve reCAPTCHA's"
+
+#~ msgid "%s ago"
+#~ msgstr "%s geleden"
+
+#~ msgid "Apply limit login rules to IP addresses in the White IP Access List"
+#~ msgstr ""
+#~ "Pas regels voor inlogbeperking toe op de Lijst Toegelaten IP-adressen"
+
+#~ msgid "Display 404 page"
+#~ msgstr "Toon 404-pagina"
+
+#~ msgid "Invisible reCAPTCHA"
+#~ msgstr "Onzichtbare reCAPTCHA"
+
+#~ msgid "Enable invisible reCAPTCHA"
+#~ msgstr "Zet onzichtbare reCAPTCHA aan"
+
+#~ msgid ""
+#~ "(do not enable it unless you get and enter the Site and Secret keys for "
+#~ "the invisible version)"
+#~ msgstr ""
+#~ "(zet pas aan als je de Sitesleutel en Geheime Sleutel voor de onzichtbare "
+#~ "versie hebt ontvangen)"
+
+#~ msgid "Enable reCAPTCHA for WordPress comment form"
+#~ msgstr "Zet reCAPTCHA aan voor WordPress reacties"
+
+#~ msgid "Disable reCAPTCHA for logged in users"
+#~ msgstr "Zet reCAPTCHA uit voor ingelogde gebruikers"
+
+#~ msgid "Limit attempts"
+#~ msgstr "Beperk aantal pogingen"
+
+#~ msgid ""
+#~ "Lock out IP address for %s minutes after %s failed attempts within %s "
+#~ "minutes"
+#~ msgstr ""
+#~ "Sluit IP-adressen uit voor %s minuten na %s mislukte pogingen in %s "
+#~ "minuten"
+
+#~ msgid ""
+#~ "In the Citadel mode nobody is able to log in except IPs from the White IP "
+#~ "Access List. Active user sessions will not be affected."
+#~ msgstr ""
+#~ "In de Citadelmodus kunnen alleen adressen van de Lijst Toegelaten IP-"
+#~ "adressen inloggen. Heeft geen effect op reeds ingelogde gebruikers."
+
+#~ msgid "Event"
+#~ msgstr "Gebeurtenis"
+
+#~ msgid "Spam comments denied"
+#~ msgstr "Spamreacties afgewezen"
+
+#~ msgid "Malicious IP addresses detected"
+#~ msgstr "Kwaadaardige IP-adressen gevonden"
+
+#~ msgid "Lockouts occurred"
+#~ msgstr "Uitsluitingen"
+
+#~ msgid "All suspicious activity"
+#~ msgstr "Alle verdachte activiteit"
+
+#~ msgid "You are not allowed to register."
+#~ msgstr "Je mag niet aanmelden."
+
+#~ msgid "Spam comment denied"
+#~ msgstr "Spamreactie afgewezen."
+
+#~ msgid "Attempt to log in denied"
+#~ msgstr "Inlogpoging afgewezen"
+
+#~ msgid "Attempt to register denied"
+#~ msgstr "Aanmeldingspoging afgewezen"
+
+#~ msgid "Malicious activities mitigated"
+#~ msgstr "Verdachte activiteiten afgevangen"
+
+#~ msgid "Cerber antispam settings"
+#~ msgstr "Cerber Antispam-instellingen"
+
+#~ msgid "Antispam"
+#~ msgstr "Antispam"
+
+#~ msgid "Cerber antispam engine"
+#~ msgstr "Cerber Antispam"
+
+#~ msgid "Comment form"
+#~ msgstr "Reactiepagina"
+
+#~ msgid "Protect comment form with bot detection engine"
+#~ msgstr "Bescherm invoer reacties met bot-detectie"
+
+#~ msgid "Protect registration form with bot detection engine"
+#~ msgstr "Bescherm registratiepagina met bot-detectie"
+
+#~ msgid "Export & Import"
+#~ msgstr "Export & Import"
+
+#~ msgid "Diagnostic"
+#~ msgstr "Diagnose"
+
+#~ msgid "License"
+#~ msgstr "Licentie"
+
+#~ msgid "Antispam and bot detection settings"
+#~ msgstr "Antispam- en botdetectie-instellingen"
+
+#~ msgid "Sorry, human verification failed."
+#~ msgstr "Sorry, de verificatie faalt."
+
+#~ msgid "Bot activity is detected"
+#~ msgstr "Bot-activiteit getedecteerd"
+
+#~ msgid "Comment processing"
+#~ msgstr "Verwerking van reactie"
+
+#~ msgid "If a spam comment detected"
+#~ msgstr "Bij detectie van een spam-reactie"
+
+#~ msgid "Trash spam comments"
+#~ msgstr "Spamreacties weggooien"
+
+#~ msgid "Move spam comments to trash after"
+#~ msgstr "Verwijder spamreacties na"
+
+#~ msgid "Spam form submission denied"
+#~ msgstr "Geweigerd wegens spam"
+
+#~ msgid "Other forms"
+#~ msgstr "Andere formulieren"
+
+#~ msgid "Protect all forms on the website with bot detection engine"
+#~ msgstr "Bescherm alle invoerformulieren met bot-detectie"
+
+#~ msgid "Adjust antispam engine"
+#~ msgstr "Antispammechanisme aanpassen"
+
+#~ msgid "Safe mode"
+#~ msgstr "Veilige modus"
+
+#~ msgid "Use less restrictive policies (allow AJAX)"
+#~ msgstr "Minder restricties (sta AJAX toe)"
+
+#~ msgid "Logged in users"
+#~ msgstr "Ingelogde gebruikers"
+
+#~ msgid "Disable bot detection engine for logged in users"
+#~ msgstr "Zet bot-detectie uit voor ingelogde gebruikers"
+
+#~ msgid "WP Cerber Security & Antispam"
+#~ msgstr "WP Cerber Security & Antispam"
+
+#~ msgid "Country"
+#~ msgstr "Land"
+
+#~ msgid "All events"
+#~ msgstr "Alle gebeurtenissen"
+
+#~ msgid "Cerber Security Rules"
+#~ msgstr "Cerber Beveiligingsregels"
+
+#~ msgid "Security Rules"
+#~ msgstr "Beveiligingsregels"
+
+#~ msgid "Failed login attempts"
+#~ msgstr "Gefaalde loginpogingen"
+
+#~ msgid "Registered"
+#~ msgstr "Geregistreerd"
+
+#~ msgid "You"
+#~ msgstr "Jij"
+
+#~ msgid "Spam form submissions denied"
+#~ msgstr "Spam formulierafgifte afgewezen "
+
+#~ msgid "Getting Started Guide"
+#~ msgstr "Startgids"
+
+#~ msgid "Countries"
+#~ msgstr "Landen"
+
+#~ msgid "Permitted for one country"
+#~ msgid_plural "Permitted for %d countries"
+#~ msgstr[0] "Toegestaan voor één land"
+#~ msgstr[1] "Toegestaan voor %d landen"
+
+#~ msgid "No rule"
+#~ msgstr "Geen regel"
+
+#~ msgid "Security rules have been updated"
+#~ msgstr "Beveiligingsregels zijn vernieuwd"
+
+#~ msgid "https://wpcerber.com"
+#~ msgstr "https://wpcerber.com"
+
+#~ msgid "Form submission denied"
+#~ msgstr "Formulierafgifte afgewezen"
+
+#~ msgid "Comment denied"
+#~ msgstr "Commentaar afgewezen"
+
+#~ msgid "Request to REST API denied"
+#~ msgstr "Verzoek aan REST API afgewezen"
+
+#~ msgid "XML-RPC request denied"
+#~ msgstr "XML-RPC-verzoek afgewezen"
+
+#~ msgid "Bot detected"
+#~ msgstr "Bot gedetecteerd"
+
+#~ msgid "Citadel mode is active"
+#~ msgstr "Citadelmodus actief"
+
+#~ msgid "Malicious activity detected"
+#~ msgstr "Verdachte activiteit gedetecteerd "
+
+#~ msgid "Blocked by country rule"
+#~ msgstr "Geblokkeerd door landenregel"
+
+#~ msgid "Limit reached"
+#~ msgstr "Limiet bereikt"
+
+#~ msgid "Multiple suspicious activities"
+#~ msgstr "Meerdere verdachte activiteiten"
+
+#~ msgid "Multiple suspicious activities were detected"
+#~ msgstr "Meerdere verdachte activiteiten gedetecteerd"
+
+#~ msgid ""
+#~ "Block access to user pages like /?author=n and user data via REST API"
+#~ msgstr ""
+#~ "Blokkeer toegang tot gebruikersgegevens en -pagina's als /?author=n via "
+#~ "de REST API"
+
+#~ msgid "Block access to the WordPress REST API except the following"
+#~ msgstr "Blokkeer toegang naar de WordPress REST API behalve het volgende"
+
+#~ msgid "Allow REST API for logged in users"
+#~ msgstr "Sta REST API toe voor ingelogde gebruikers"
+
+#~ msgid ""
+#~ "Specify REST API namespaces to be allowed if REST API is disabled. One "
+#~ "string per line."
+#~ msgstr ""
+#~ "Geef toegestane REST API-naamruimtes op als de REST API is uitgeschakeld. "
+#~ "Eén tekenreeks per regel."
+
+#~ msgid "Registration limit"
+#~ msgstr "Registratielimiet"
+
+#~ msgid "Sort users in dashboard"
+#~ msgstr "Gebruikers in dashboard sorteren"
+
+#~ msgid "by date of registration"
+#~ msgstr "per registratiedatum"
+
+#~ msgid "Query whitelist"
+#~ msgstr "Toegestane queries"
+
+#~ msgid "%s allowed registrations in %s minutes from one IP"
+#~ msgstr "%s toegestane registraties in %s minuten van één IP"
+
+#~ msgid "Start typing here to find a country"
+#~ msgstr "Begin te typen om een land te vinden"
+
+#~ msgid "Click on a country name to add it to the list of selected countries"
+#~ msgstr "Klik op een landnaam om toe te voegen aan de lijst gekozen landen"
+
+#~ msgid "Submit forms"
+#~ msgstr "Formulieren versturen"
+
+#~ msgid "Post comments"
+#~ msgstr "Commentaar plaatsen"
+
+#~ msgid "Log in to the website"
+#~ msgstr "Inloggen bij de website"
+
+#~ msgid "Register on the website"
+#~ msgstr "Registreren bij de website"
+
+#~ msgid "Use XML-RPC"
+#~ msgstr "Benut XML-RPC"
+
+#~ msgid "Use REST API"
+#~ msgstr "Benut REST API"
+
+#~ msgid "Deny it completely"
+#~ msgstr "Volledig negeren"
+
+#~ msgid "Mark it as spam"
+#~ msgstr "Markeren als spam"
+
+#~ msgid "in the last 24 hours"
+#~ msgstr "in de afgelopen 24 uur"
+
+#~ msgid "Main settings"
+#~ msgstr "Hoofdinstellingen"
+
+#~ msgid "Weekly reports"
+#~ msgstr "Weekrapporten"
+
+#~ msgid "Sunday"
+#~ msgstr "mondag"
+
+#~ msgid "Monday"
+#~ msgstr "maandag"
+
+#~ msgid "Tuesday"
+#~ msgstr "dinsdag"
+
+#~ msgid "Wednesday"
+#~ msgstr "woensdag"
+
+#~ msgid "Thursday"
+#~ msgstr "donderdag"
+
+#~ msgid "Friday"
+#~ msgstr "vrijdag"
+
+#~ msgid "Saturday"
+#~ msgstr "zaterdag"
+
+#~ msgid ""
+#~ "If you use a caching plugin, you have to add your new login URL to the "
+#~ "list of pages not to cache."
+#~ msgstr ""
+#~ "Gebruik je een caching plugin, voeg dan je nieuwe login URL toe aan de "
+#~ "niet te cachen pagina's."
+
+#~ msgctxt "preposition of time"
+#~ msgid "at"
+#~ msgstr "op"
+
+#~ msgid "Weekly report"
+#~ msgstr "Weekrapport"
+
+#~ msgid "To change reporting settings visit"
+#~ msgstr "Om je rapportageinstellingen aan te passen, ga naar"
+
+#~ msgid "Your login page:"
+#~ msgstr "Je login-pagina:"
+
+#~ msgid "Your license is valid until"
+#~ msgstr "Je licentie geldt tot"
+
+#~ msgid "Activity details"
+#~ msgstr "Details van activiteiten"
+
+#~ msgid "Click to send now"
+#~ msgstr "Klik om nu te versturen"
+
+#~ msgid ""
+#~ "> > > Translator of WP Cerber? To get the PRO license for free, drop your "
+#~ "contacts here: https://wpcerber.com/contact/"
+#~ msgstr ""
+#~ ">>> Vertaler van WP Cerber? Om een gratis Pro-licentie te krijgen, geef "
+#~ "je contactinformatie op bij: https://wpcerber.com/contact/"
+
+#~ msgid "Email has been sent to"
+#~ msgstr "E-mail is verzonden naar"
+
+#~ msgid "Unable to send email to"
+#~ msgstr "Kan geen e-mail verzenden naar"
+
+#~ msgid "Not permitted for one country"
+#~ msgid_plural "Not permitted for %d countries"
+#~ msgstr[0] "Niet toegestaan voor één land"
+#~ msgstr[1] "Niet toegestaan voor %d landen"
+
+#~ msgctxt "to is a marker of infinitive, e.g. \"to use it\""
+#~ msgid ""
+#~ "Selected countries are permitted to %s, other countries are not permitted "
+#~ "to"
+#~ msgstr "Gekozen landen mogen %s, overige landen niet"
+
+#~ msgctxt "to is a marker of infinitive, e.g. \"to use it\""
+#~ msgid ""
+#~ "Selected countries are not permitted to %s, other countries are permitted "
+#~ "to"
+#~ msgstr "Gekozen landen mogen niet %s, overige landen wel"
+
+#~ msgid ""
+#~ "Protects site from brute force attacks, bots and hackers. Antispam "
+#~ "protection with the Cerber antispam engine and reCAPTCHA. Comprehensive "
+#~ "control of user activity. Restrict login by IP access lists. Limit login "
+#~ "attempts. Know more: <a href=\"https://wpcerber.com\">wpcerber.com</a>."
+#~ msgstr ""
+#~ "Beschermt site tegen brute force-aanvallen, bots en hackers. "
+#~ "Spambescherming met Cerber's antispamprogramma en reCAPTCHA. Uitgebreid "
+#~ "beheer van gebruikersactiviteit. Beperk login op IP-adres. Limiteer login-"
+#~ "pogingen. Meer: <a href=\"https://wpcerber.com\">wpcerber.com</a>."
+
+#~ msgid "Weekly Report"
+#~ msgstr "Weekrapport"
+
+#~ msgid "Use 404 template from the active theme"
+#~ msgstr "Gebruik 404-sjabloon van het actieve thema"
+
+#~ msgid "Display simple 404 page"
+#~ msgstr "Toon eenvoudige 404-pagina"
+
+#~ msgid ""
+#~ "Enter a part of query string or query path to exclude a request from "
+#~ "inspection by the engine. One item per line."
+#~ msgstr ""
+#~ "Voer een deel van een query-tekenreeks of -pad in om een request uit te "
+#~ "sluiten van inspectie. Eén item per regel."
+
+#~ msgid "if empty, email from notification settings will be used"
+#~ msgstr "We gebruiken de email van de meldingsinstellingen indien leeg"
+
+#~ msgid "Enable reporting"
+#~ msgstr "Rapporteren aanzetten"

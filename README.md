@@ -6,7 +6,7 @@ It is not really a product at the moment.
 
 It will create a menu with 2 submenu's and 2 pages.
 
-It is at least start to creating a plugin with an Object Oriented setup. 
+It is at least a start to creating a plugin with an Object Oriented setup. 
 
 Currently I am working on a different Wordpress Plugin.
 
